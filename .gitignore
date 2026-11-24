@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+data/
+results/
+results_flowers/
+results_ships/
+.DS_Store
+*.pth
+*.png
